@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KeyStoreDemo</string>
+    <string name="data_des">数据需要加密的数据，点击加密按钮</string>
+    <string name="encrypt">加密</string>
+    <string name="decrypt">解密</string>
+    <string name="show_encrypt">显示加密后数据</string>
+</resources>
